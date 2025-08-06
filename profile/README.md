@@ -1,4 +1,4 @@
-<img width="1500" height="600" alt="ispark-logo-small-new-final-1 webp" src="https://github.com/user-attachments/assets/828cc5de-640f-4d2f-906a-a6c51c8add0c" />
+![logo](https://github.com/user-attachments/assets/c9fb9ea7-0288-4d8e-8c10-ddfafadc5c4f)
 
 An Innovation Hub: Innovating from Africa, for the world.
 
@@ -72,6 +72,7 @@ If you're a developer, designer, founder, or curious learner — you're welcome 
 📬 Send us an email: info@isparkinno.com
 
 Let's build, let's innovate. Let's grow Africa together.
+
 
 
 
