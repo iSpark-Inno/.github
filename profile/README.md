@@ -30,7 +30,8 @@ We create curricula, learning platforms, and community challenges that often lea
 We train people to not just code — but to solve real problems, start ventures, and contribute to the digital economy.
 Many of our learners contribute to our GitHub projects as part of their growth journey.
 
-Website: [classroom.isparkinno.com](https://classroom.isparkinno.com)
+- Website: [classroom.isparkinno.com](https://classroom.isparkinno.com)
+- GitHub Org: [iSpark Classroom](https://github.com/iSpark-Classroom)
 
 ### iSpark Coworkspace (The Hub)
 This is our physical home in Bonduma - Buea, Cameroon. 
@@ -72,6 +73,7 @@ If you're a developer, designer, founder, or curious learner — you're welcome 
 📬 Send us an email: info@isparkinno.com
 
 Let's build, let's innovate. Let's grow Africa together.
+
 
 
 
