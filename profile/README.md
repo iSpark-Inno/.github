@@ -1,10 +1,12 @@
-![logo](https://github.com/user-attachments/assets/c9fb9ea7-0288-4d8e-8c10-ddfafadc5c4f)
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/c9fb9ea7-0288-4d8e-8c10-ddfafadc5c4f" alt="logo" width="200" />
+</p>
 
 An Innovation Hub: Innovating from Africa, for the world.
 
-Welcome to the official Github organization of [iSpark Inno](https://isparkinno.com/), an innovation hub in Buea, Cameroon dedicated to empowering Africa's next generation of innovators and creators.
+Welcome to the official Github organization of [iSpark Inno](https://isparkinno.com/), an innovation hub in Buea, Cameroon dedicated to empowering Africa's next generation of disruptors.
 
-## 💡 Our Ecosystem
+## Our Ecosystem
 iSpark Inno operates through interconnected arms, each designed to solve a unique challenge while supporting our mission to equip and empower the next generation of African builders:
 
 ### DevSpace
@@ -22,8 +24,7 @@ Our education and talent-building arm, focused on training young Africans in:
 - Software Engineering
 - Data Science & AI
 - Digital Design
-- Entrepreneurship
-- English & Digital Literacy (especially for local youth) 
+- Software Quality Assurance
 
 We create curricula, learning platforms, and community challenges that often lead to collaborative open-source projects, internships, and jobs.
 
@@ -44,38 +45,17 @@ Our virbant coworking space is open to:
 - Community events
 - Startup incubation
 
-We are currently incubating [**ndaab**](github.com/ndaab), our own AI-powered African language platform; and we are open to hosting more startups solving meaningful problems.
+We are currently incubating [**ndaab**](https://ndaab.com), our own AI-powered African language platform; and we are open to hosting more startups solving meaningful problems.
 
 Want to work from our space or join our incubation? Reach out to `workspace@isparkinno.com`
 
 Website: [workspace.isparkinno.com](https://workspace.isparkinno.com)
 
-### iSpark Brands
-We help entrepreneurs look the part.
-
-Our creative and strategy studio supporting creators and early-stage founders with branding, design, and product-market positioning. 
-
-Website: [brands.isparkinno.com](https://brands.isparkinno.com)
-
-## 🌐 Our Mission on GitHub
-This is where we:
-- Share open-source tools, designs, and educational content from our community.
-- Collaborate on client projects; especially those involving development, design, and data.
-- Build and experiment with tech, AI, and grassroots innovation.
-- Document out journey as builders on the continent.
-
-
 -------------------------------------------------------------
 If you're a developer, designer, founder, or curious learner — you're welcome here.
 
-🔗 Visit our website: [www.isparkinno.com](https://isparkinno.com)
-📍 Visit us at: Buea, Cameroon
-📬 Send us an email: info@isparkinno.com
+- Visit our website: [www.isparkinno.com](https://isparkinno.com)
+- Visit us at: Buea, Cameroon
+- Send us an email: info@isparkinno.com
 
-Let's build, let's innovate. Let's grow Africa together.
-
-
-
-
-
-
+**Let's build, let's innovate, let's disrupt.**
